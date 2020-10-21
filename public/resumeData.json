@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Rob Young",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer by Day.",
+    "image": "20190317_111538.jpg", 
+    "bio": "My name is Rob and I'm a Full Stack ReactJS Developer. Currently I'm working as a freelancer.",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "robyoug75@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "14418 So. Peacock Midge Drive",
+      "city": "Bluffdale",
+      "state": "UT",
+      "zip": "84065"
+    },
+    
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rob.young.946179",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rob-young-ab80a7b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/robyoung75",
+        "className": "fa fa-instagram"
+      }, 
+      {
+        "name": "github",
+        "url": "http://github.com/robyoung75",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I always enjoy learning and implementing new solutions. I do focus on React JS full stack applications. Following are ratings for my various skill sets.",
+    "education": [
+      {
+        "school": "Code Academy",
+        "degree": "Certification",
+        "graduated": "2020",
+        "description": "Full Stack Web Development."
+      },
+      {
+        "school": "University of Phoenix",
+        "degree": "BS Business Marketing",
+        "graduated": "January 2003",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Salt Lake Community College",
+        "degree": "AS Engineering Design and Drafting",
+        "graduated": "1998",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Goble Sampson Associates",
+        "title": "Vice President",
+        "years": "July 2000 - April 2017",
+        "description": "Environmental Sales Engineer, process equipment. Territories included: Idaho, Montana, Northern, California."
+      },
+      {
+        "company": "WesTech Engineering",
+        "title": "Designer",
+        "years": "1998 - 2000",
+        "description": "Designed Water and Wastewater Process Equipment."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%", 
+        "className": "fab fa-react fa-2x"       
+        
+      },
+      {
+        "name": "CSS",
+        "level": "50%",
+        "className": "fab fa-css3 fa-2x"
+      },
+      {
+        "name": "Git",
+        "level": "50%",
+        "className": "fa fa-github fa-2x"
+      },
+      {
+        "name": "Express",
+        "level": "50%",
+        "className": "fab fa-node-js fa-2x"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%",
+        "className": "fa fa-html5 fa-2x"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%",
+        "className": "fas fa-server fa-2x"
+      },
+      {
+        "name": "Google Firebase DB",
+        "level": "75%",
+        "className": "fas fa-server fa-2x"
+        
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ravenous Yelp Clone",
+        "category": "Yelp style app built with (ReactJS)",
+        "image": "ravenous.PNG", 
+        "url": "https://ravenous-food-app.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone, with full functionality: Firebase db, authentication, shopping cart and payment. Built with (ReactJS)",
+        "image": "amazon.PNG", 
+        "url": "https://clone-874e9.web.app"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook Clone, with full functionality: Firebase db, authentication. Built with (ReactJS)",
+        "image": "facebook.PNG", 
+        "url": "https://facebook-clone-1b0c0.web.app/"
+      },
+      {
+        "title": "Teacher To Do List",
+        "category": "To Do List, with full functionality: Firebase db. Built with (ReactJS)",
+        "image": "todo.PNG", 
+        "url": "https://todolistapp-726ec.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rob has an extreme drive and commitment to his work.",
+        "user": "Nathan Baugh, CFO, Goble Sampson Associates"
+      },
+      {
+        "text": "I think Rob is one of the smartest guys I've met, really nice and fun to be around too.",
+        "user": "Linnea Charnholm, Draper News Editor"
+      }
+    ]
+  }
+}
